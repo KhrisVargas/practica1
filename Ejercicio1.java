@@ -4,5 +4,6 @@ public class Ejercicio1 {
         String segundoNombre="Miguel";
 
         System.out.println("Mi Nombre es " + primerNombre + " " + segundoNombre + ".");
+        System.out.println("Un gusto conocerlo!!");
     }
 }
