@@ -7,5 +7,8 @@ public class Ejercicio1 {
         System.out.println("Un gusto conocerlo!!");
         System.out.println("Un gusto conocerlo otra vez!!");
         System.out.println("Un gusto conocerlo !!");
+        System.out.println("Mucho Gusto!!");
+        System.out.println("conocerlo");
+        System.out.println("conocerlo mucho!!");
     }
 }
