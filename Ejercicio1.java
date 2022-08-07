@@ -5,5 +5,6 @@ public class Ejercicio1 {
 
         System.out.println("Mi Nombre es " + primerNombre + " " + segundoNombre + ".");
         System.out.println("Mucho Gusto!!");
+        System.out.println("conocerlo");
     }
 }
